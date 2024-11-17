@@ -15,7 +15,21 @@ Lâmpada:
         desligar;
         estado;
 ```
+7. Identifique e explique o(s) erro(s) na classe abaixo:
+```
+1 class Registro De Eleitor
+2 {
+3 /**
+4 * Declaração dos campos desta classe
+5 */
+6   int tituloDeEleitor; // número do título do eleitor
+7   String nome; // nome do eleitor
+8   short zonaEleitoral; // número da zona eleitoral
+9 } // fim da classe
+```
+-> A classe acima tem um erro na criação do nome da classe ('Registro De Eleitor'), pois no nome de classes não pode ter espaços, assim como foi colocado nesta.
 
+8. 
 
 
 
