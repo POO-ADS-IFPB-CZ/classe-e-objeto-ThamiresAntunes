@@ -56,6 +56,8 @@ Lâmpada:
 ``` 
 -> A classe tem erros no retorno dos métodos, no método 'int maior()' retorna um boolean e não um int que era o retorno esperado. Já no método 'void menor()' não é esperado retorno, pois ele é 'void' e nele tem o retorno de um int.
 
+14. Qual a importância de usar o encapsulamento na definição de classes? Exemplifique. <br>
+-> O encapsulamento tem o papel de encapsular ou esconder os detalhes internos de uma classe, aqueles que não devem ser acessados/modificados diretamente, colocando níveis de acesso nos métodos e atributos no código. Com o encapsulamento é possível garantir o controle de acesso com os modificadores de acesso, a segurança ao ocultar detalhes internos, facilita a manutenção e a reutilização e permite que os detalhes complexos sejam abstraídos de quem não precisa vê-los. Com isso, o encapsulamento é um pilar muito importante da POO.
 
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/4j22Em04)
